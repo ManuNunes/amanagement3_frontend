@@ -5,7 +5,7 @@ import SignIn from '../Auth/SignIn';
 export default class Main extends Component {
   render() {
     return (
-      <div className="loginComponent">
+      <div>
         <SignIn />
       </div>
     );
